@@ -1,0 +1,7 @@
+debate-dag-html/
+├── index.html
+├── style.css
+├── script.js
+├── logs/
+│   └── debate_log.txt (generated via simulated download)
+└── dag_diagram.png (static image you can create via Graphviz)
