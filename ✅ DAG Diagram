@@ -1,0 +1,11 @@
+Creating  a simple diagram in draw.io or graphviz similar to this:
+
+Nodes:
+UserInputNode
+Scientist
+Philosopher
+MemoryNode
+JudgeNode
+
+Flow:
+UserInputNode → Scientist → MemoryNode → Philosopher → MemoryNode (repeat 4 times) → JudgeNode
